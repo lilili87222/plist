@@ -11,7 +11,7 @@ $ go get howett.net/plist
 ```go
 package main
 import (
-	"github.com/lilili87222/go-plist"
+	"github.com/lilili87222/plist"
 	"os"
 )
 func main() {

@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/lilili87222/go-plist"
+	"github.com/lilili87222/plist"
 )
 
 func main() {
