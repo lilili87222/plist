@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"howett.net/plist"
+	"github.com/lilili87222/go-plist"
 )
 
 func main() {

@@ -6,7 +6,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"howett.net/plist"
+	"github.com/lilili87222/go-plist"
 )
 
 func main() {

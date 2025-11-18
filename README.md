@@ -11,7 +11,7 @@ $ go get howett.net/plist
 ```go
 package main
 import (
-	"howett.net/plist"
+	"github.com/lilili87222/go-plist"
 	"os"
 )
 func main() {
@@ -19,3 +19,9 @@ func main() {
 	encoder.Encode(map[string]string{"hello": "world"})
 }
 ```
+
+
+this code is adapted from https://github.com/DHowett/go-plist
+
+and added some features 
+1.support xml version 1.1
