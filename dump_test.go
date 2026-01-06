@@ -1,4 +1,4 @@
-//go:build dump
+//go:build dum
 // +build dump
 
 // To dump a directory containing all the plist package test data, run

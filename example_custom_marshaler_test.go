@@ -3,7 +3,6 @@ package plist_test
 import (
 	"encoding/base64"
 	"fmt"
-
 	"github.com/lilili87222/plist"
 )
 
